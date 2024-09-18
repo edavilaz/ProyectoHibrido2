@@ -1096,3 +1096,4 @@ D:\PROYECTOS\ProyectoHibrido2\ProyectoHibrido2\obj\Debug\net8.0-android\android\
 D:\PROYECTOS\ProyectoHibrido2\ProyectoHibrido2\obj\Debug\net8.0-android\android\src\crc64159f3caeb1269279\MauiSemanticOrderView.java
 D:\PROYECTOS\ProyectoHibrido2\ProyectoHibrido2\obj\Debug\net8.0-android\android\src\crc648fc34c62be8fbbff\Snackbar_SnackbarCallback.java
 D:\PROYECTOS\ProyectoHibrido2\ProyectoHibrido2\obj\Debug\net8.0-android\android\src\crc64d6358e7bf64fbac4\SpeechToTextImplementation_SpeechRecognitionListener.java
+D:\PROYECTOS\ProyectoHibrido2\ProyectoHibrido2\obj\Debug\net8.0-android\ProyectoHibrido2.sourcelink.json

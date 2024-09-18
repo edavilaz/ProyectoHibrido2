@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "VQf6X5mvLSM=",
+  "dgSpecHash": "M6VoYzNc5rE=",
   "success": true,
   "projectFilePath": "D:\\PROYECTOS\\ProyectoHibrido2\\ProyectoHibrido2\\ProyectoHibrido2.csproj",
   "expectedPackageFiles": [
@@ -140,16 +140,21 @@
     "C:\\Users\\ACER\\.nuget\\packages\\microsoft.ios.ref\\17.2.8078\\microsoft.ios.ref.17.2.8078.nupkg.sha512",
     "C:\\Users\\ACER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.5\\microsoft.aspnetcore.app.ref.8.0.5.nupkg.sha512",
     "C:\\Users\\ACER\\.nuget\\packages\\microsoft.ios.runtime.iossimulator-x64\\17.2.8078\\microsoft.ios.runtime.iossimulator-x64.17.2.8078.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.maccatalyst.runtime.maccatalyst-arm64\\17.2.8078\\microsoft.maccatalyst.runtime.maccatalyst-arm64.17.2.8078.nupkg.sha512",
     "C:\\Users\\ACER\\.nuget\\packages\\microsoft.maccatalyst.runtime.maccatalyst-x64\\17.2.8078\\microsoft.maccatalyst.runtime.maccatalyst-x64.17.2.8078.nupkg.sha512",
     "C:\\Users\\ACER\\.nuget\\packages\\microsoft.maccatalyst.ref\\17.2.8078\\microsoft.maccatalyst.ref.17.2.8078.nupkg.sha512",
     "C:\\Users\\ACER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.5\\microsoft.windowsdesktop.app.ref.8.0.5.nupkg.sha512",
     "C:\\Users\\ACER\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.5\\microsoft.netcore.app.ref.8.0.5.nupkg.sha512",
     "C:\\Users\\ACER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.5\\microsoft.aspnetcore.app.ref.8.0.5.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\8.0.5\\microsoft.netcore.app.crossgen2.win-x64.8.0.5.nupkg.sha512",
     "C:\\Users\\ACER\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.31\\microsoft.windows.sdk.net.ref.10.0.19041.31.nupkg.sha512",
     "C:\\Users\\ACER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.5\\microsoft.windowsdesktop.app.ref.8.0.5.nupkg.sha512",
     "C:\\Users\\ACER\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.5\\microsoft.netcore.app.ref.8.0.5.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.5\\microsoft.aspnetcore.app.runtime.win-x64.8.0.5.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.5\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.5.nupkg.sha512",
     "C:\\Users\\ACER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.5\\microsoft.aspnetcore.app.ref.8.0.5.nupkg.sha512",
-    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.5\\microsoft.netcore.app.host.win-x64.8.0.5.nupkg.sha512"
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.5\\microsoft.netcore.app.host.win-x64.8.0.5.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.5\\microsoft.netcore.app.runtime.win-x64.8.0.5.nupkg.sha512"
   ],
   "logs": []
 }

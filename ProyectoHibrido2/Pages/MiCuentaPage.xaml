@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="ProyectoHibrido2.Pages.MiCuentaPage"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    Title="Mi Cuenta">
+    <Grid RowDefinitions="Auto,*" RowSpacing="0">
+        <VerticalStackLayout
+            Grid.Row="0"
+            Padding="20"
+            BackgroundColor="Orange"
+            Spacing="1"
+            VerticalOptions="Start">
+            <ImageButton
+                x:Name="ImgBtnPerfil"
+                Padding="1"
+                Aspect="AspectFill"
+                HeightRequest="250"
+                Source="user2.png"
+                WidthRequest="250" />
+            <Label
+                x:Name="LblNombreUsuario"
+                FontAttributes="Bold"
+                HorizontalOptions="Center"
+                TextColor="Black" />
+
+        </VerticalStackLayout>
+        <VerticalStackLayout
+            Grid.Row="1"
+            Margin="20"
+            Spacing="20">
+            <Entry x:Name="EntNombre" Placeholder="Nombre" />
+            <Entry
+                x:Name="EntEmail"
+                Keyboard="Email"
+                Placeholder="Email" />
+
+            <Button
+                x:Name="BtnSalvar"
+                BackgroundColor="Orange"
+                BorderColor="DarkBlue"
+                BorderWidth="2"
+                Clicked="BtnSalvar_Clicked"
+                FontAttributes="Bold"
+                FontSize="Large"
+                Text="Salvar"
+                TextColor="White" />
+        </VerticalStackLayout>
+
+    </Grid>
+</ContentPage>

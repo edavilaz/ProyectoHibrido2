@@ -1,0 +1,138 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ProyectoHibrido2
+build_property.ProjectDir = D:\PROYECTOS\ProyectoHibrido2\ProyectoHibrido2\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+
+[D:/PROYECTOS/ProyectoHibrido2/ProyectoHibrido2/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProyectoHibrido2.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[D:/PROYECTOS/ProyectoHibrido2/ProyectoHibrido2/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProyectoHibrido2.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[D:/PROYECTOS/ProyectoHibrido2/ProyectoHibrido2/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProyectoHibrido2.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[D:/PROYECTOS/ProyectoHibrido2/ProyectoHibrido2/Pages/CarritoPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProyectoHibrido2.Pages.CarritoPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\CarritoPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\CarritoPage.xaml
+
+[D:/PROYECTOS/ProyectoHibrido2/ProyectoHibrido2/Pages/CarritoVacioPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProyectoHibrido2.Pages.CarritoVacioPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\CarritoVacioPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\CarritoVacioPage.xaml
+
+[D:/PROYECTOS/ProyectoHibrido2/ProyectoHibrido2/Pages/DireccionPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProyectoHibrido2.Pages.DireccionPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\DireccionPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\DireccionPage.xaml
+
+[D:/PROYECTOS/ProyectoHibrido2/ProyectoHibrido2/Pages/FavoritosPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProyectoHibrido2.Pages.FavoritosPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\FavoritosPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\FavoritosPage.xaml
+
+[D:/PROYECTOS/ProyectoHibrido2/ProyectoHibrido2/Pages/HomePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProyectoHibrido2.Pages.HomePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\HomePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\HomePage.xaml
+
+[D:/PROYECTOS/ProyectoHibrido2/ProyectoHibrido2/Pages/ListaProductosPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProyectoHibrido2.Pages.ListaProductosPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\ListaProductosPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\ListaProductosPage.xaml
+
+[D:/PROYECTOS/ProyectoHibrido2/ProyectoHibrido2/Pages/LoginPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProyectoHibrido2.Pages.LoginPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\LoginPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\LoginPage.xaml
+
+[D:/PROYECTOS/ProyectoHibrido2/ProyectoHibrido2/Pages/MiCuentaPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProyectoHibrido2.Pages.MiCuentaPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\MiCuentaPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\MiCuentaPage.xaml
+
+[D:/PROYECTOS/ProyectoHibrido2/ProyectoHibrido2/Pages/PedidoConfirmadoPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProyectoHibrido2.Pages.PedidoConfirmadoPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\PedidoConfirmadoPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\PedidoConfirmadoPage.xaml
+
+[D:/PROYECTOS/ProyectoHibrido2/ProyectoHibrido2/Pages/PedidoDetallesPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProyectoHibrido2.Pages.PedidoDetallesPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\PedidoDetallesPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\PedidoDetallesPage.xaml
+
+[D:/PROYECTOS/ProyectoHibrido2/ProyectoHibrido2/Pages/PedidosPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProyectoHibrido2.Pages.PedidosPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\PedidosPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\PedidosPage.xaml
+
+[D:/PROYECTOS/ProyectoHibrido2/ProyectoHibrido2/Pages/PerfilPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProyectoHibrido2.Pages.PerfilPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\PerfilPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\PerfilPage.xaml
+
+[D:/PROYECTOS/ProyectoHibrido2/ProyectoHibrido2/Pages/PreguntasPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProyectoHibrido2.Pages.PreguntasPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\PreguntasPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\PreguntasPage.xaml
+
+[D:/PROYECTOS/ProyectoHibrido2/ProyectoHibrido2/Pages/ProductoDetallesPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProyectoHibrido2.Pages.ProductoDetallesPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\ProductoDetallesPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\ProductoDetallesPage.xaml
+
+[D:/PROYECTOS/ProyectoHibrido2/ProyectoHibrido2/Pages/RegistrarsePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProyectoHibrido2.Pages.RegistrarsePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\RegistrarsePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\RegistrarsePage.xaml
+
+[D:/PROYECTOS/ProyectoHibrido2/ProyectoHibrido2/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProyectoHibrido2.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[D:/PROYECTOS/ProyectoHibrido2/ProyectoHibrido2/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProyectoHibrido2.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml

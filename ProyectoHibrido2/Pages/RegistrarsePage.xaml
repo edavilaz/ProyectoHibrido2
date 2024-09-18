@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    x:Class="ProyectoHibrido2.Pages.RegistrarsePage"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:ProyectoHibrido2.Pages"
+    NavigationPage.HasNavigationBar="False">
+    <Grid
+        Margin="20,100,20,40"
+        RowDefinitions="Auto,Auto,Auto,Auto,*"
+        RowSpacing="20">
+
+        <Image
+            Grid.Row="0"
+            Aspect="AspectFit"
+            HeightRequest="200"
+            Source="logo.png"
+            WidthRequest="200" />
+        <Label
+            Grid.Row="1"
+            FontAttributes="Bold"
+            FontSize="Medium"
+            HorizontalOptions="Center"
+            Text=" Registro Nuevo Usuario" />
+        <Frame
+            Grid.Row="2"
+            Padding="15"
+            BackgroundColor="White">
+
+            <VerticalStackLayout>
+                <Entry x:Name="EntNombre" Placeholder="Nombre" />
+                <Entry
+                    x:Name="EntEmail"
+                    Keyboard="Email"
+                    Placeholder="Email" />
+                <Entry
+                    x:Name="EntPassword"
+                    IsPassword="True"
+                    Placeholder="Password" />
+
+            </VerticalStackLayout>
+        </Frame>
+        <Button
+            x:Name="BtnSignUp"
+            Grid.Row="3"
+            BackgroundColor="Orange"
+            Clicked="BtnSignUp_ClickedAsync"
+            FontSize="Medium"
+            Text="Registrarse" />
+
+        <HorizontalStackLayout
+            Grid.Row="4"
+            HorizontalOptions="Center"
+            Spacing="2"
+            VerticalOptions="EndAndExpand">
+            <Label Text="¿Ya Tienes una cuenta?" />
+            <Label
+                FontAttributes="Bold"
+                Text=" Entra Aquí"
+                TextColor="OrangeRed">
+                <Label.GestureRecognizers>
+                    <TapGestureRecognizer x:Name="TapLogin" Tapped="TapLogin_TappedAsync" />
+                </Label.GestureRecognizers>
+            </Label>
+        </HorizontalStackLayout>
+
+    </Grid>
+</ContentPage>

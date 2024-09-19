@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProyectoHibrido2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+16d117c5987229680e1096f466fe5378d562a53d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+ae2ef943730dabd7b517dd6f30405345cf4f7c1a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProyectoHibrido2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProyectoHibrido2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
